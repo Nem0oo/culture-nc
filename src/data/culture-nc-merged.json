@@ -1,0 +1,1402 @@
+{
+  "source": "Fusion: Calendrier cultural Kévin Gallot / Fred Garcia (Malé'Ka) + extraction image",
+  "toute_annee": [
+    "amarante",
+    "chou kale",
+    "laitue feuille de chêne blonde",
+    "tomate miel du mexique"
+  ],
+  "plantes": {
+    "Ambrevade": {
+      "nom_scientifique": "Cajanus cajan",
+      "wikipedia": "Pois_d'Angole",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Août",
+        "Septembre",
+        "Octobre",
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cajanus_cajan_MHNT.BOT.2015.2.47.jpg"
+    },
+    "Aneth": {
+      "nom_scientifique": "Anethum graveolens",
+      "wikipedia": "",
+      "semis": [
+        "Avril"
+      ],
+      "en_terre": [
+        "Avril"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "betterave",
+        "brocoli",
+        "chou",
+        "concombre",
+        "laitue",
+        "oignon"
+      ],
+      "mauvais_compagnons": [
+        "carotte"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Anethum_graveolens_02.jpg"
+    },
+    "ANO": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://www.publicdomainpictures.net/pictures/50000/velka/plant-1372238721hPX.jpg"
+    },
+    "Aubergine": {
+      "nom_scientifique": "Solanum melongena",
+      "wikipedia": "",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [
+        "épinard",
+        "haricot",
+        "pois",
+        "poivron",
+        "thym"
+      ],
+      "mauvais_compagnons": [
+        "pomme de terre",
+        "noyer"
+      ],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Plantes_%C3%A0_%C5%93ufs.jpg"
+    },
+    "Baselle": {
+      "nom_scientifique": "Basella alba",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre",
+        "Décembre",
+        "Janvier",
+        "Février",
+        "Mars",
+        "Avril",
+        "Mai"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Baselle.JPG"
+    },
+    "Basilic": {
+      "nom_scientifique": "Ocimum basilicum",
+      "wikipedia": "Basilic_(plante)",
+      "semis": [
+        "Mars"
+      ],
+      "en_terre": [
+        "Mars"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "concombre",
+        "courgette",
+        "fenouil",
+        "poivron",
+        "tomate"
+      ],
+      "mauvais_compagnons": [
+        "rue"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg"
+    },
+    "Basilic thaï": {
+      "nom_scientifique": "Ocimum basilicum var. thyrsiflora",
+      "wikipedia": "",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thai_basil.jpg"
+    },
+    "Blé tendre": {
+      "nom_scientifique": "Triticum aestivum",
+      "wikipedia": "",
+      "semis": [
+        "Juillet"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bl%C3%A9_tendre_hiver_%28GHAYTA%29_AO-5-cliche_Jean_Weber_%285%29_%2824000515671%29.jpg/800px-Bl%C3%A9_tendre_hiver_%28GHAYTA%29_AO-5-cliche_Jean_Weber_%285%29_%2824000515671%29.jpg"
+    },
+    "Brocoli": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mai",
+        "Juin"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/17/Broccoli_plant.jpg"
+    },
+    "Brocoli chinois": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Février",
+        "Mars"
+      ],
+      "en_terre": [
+        "Janvier",
+        "Mars"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gailan.jpg/290px-Gailan.jpg"
+    },
+    "Canne à sucre": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Décembre"
+      ],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sugar_cane_dsc09008.jpg"
+    },
+    "Carotte": {
+      "nom_scientifique": "Daucus carota",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Mai",
+        "Juin",
+        "Juillet",
+        "Août"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Avril",
+        "Mai"
+      ],
+      "compagnons": [
+        "Achillée",
+        "ail",
+        "coriandre",
+        "haricot",
+        "laitue",
+        "oignon",
+        "poireau",
+        "thym"
+      ],
+      "mauvais_compagnons": [
+        "aneth",
+        "fenouil",
+        "menthe"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Daucus_Carota.jpg"
+    },
+    "Celeri": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cichorium_intybus_cikoria.jpg"
+    },
+    "Chicorée": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril",
+        "Mai"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mai",
+        "Juin"
+      ],
+      "compagnons": [
+        "pois"
+      ],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cichorium_intybus_%286%29.JPG"
+    },
+    "Chicorée sauvage": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cichorium_intybus_cikoria.jpg"
+    },
+    "Chou de chine": {
+      "nom_scientifique": "",
+      "wikipedia": "Pe-tsaï",
+      "semis": [
+        "Avril",
+        "Août",
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril",
+        "Mai",
+        "Septembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/ChineseCabbage.jpg"
+    },
+    "Chou fleur": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Août"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cauliflower.jpg/290px-Cauliflower.jpg"
+    },
+    "Chou kale": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Avril",
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril",
+        "Mai"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kale-Bundle.jpg"
+    },
+    "Chou kanak": {
+      "nom_scientifique": "Abelmoschus manihot",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Janvier",
+        "Février",
+        "Décembre"
+      ],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Abelmoschus_manihot_Flower_3000px.jpg"
+    },
+    "Chou moutarde": {
+      "nom_scientifique": "Brassica juncea",
+      "wikipedia": "Moutarde_brune",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Mai"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brassica_juncea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-168.jpg"
+    },
+    "Chou pommé": {
+      "nom_scientifique": "",
+      "wikipedia": "Chou_cabus",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Mai"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Brassica_oleracea2.jpg"
+    },
+    "Chouchoutte": {
+      "nom_scientifique": "",
+      "wikipedia": "Chayote",
+      "semis": [],
+      "en_terre": [
+        "Janvier",
+        "Février",
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre",
+        "Décembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sechium_edule_dsc07767.jpg"
+    },
+    "Citrouille": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Janvier",
+        "Février"
+      ],
+      "en_terre": [
+        "Janvier"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mai",
+        "Juin",
+        "Juillet",
+        "Août",
+        "Septembre"
+      ],
+      "compagnons": [
+        "capucine",
+        "fève",
+        "maïs",
+        "menthe",
+        "pois",
+        "radis"
+      ],
+      "mauvais_compagnons": [
+        "pomme de terre"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/High-quality_C._pepo_fruit_specimen.JPG"
+    },
+    "Coeur de boeuf": {
+      "nom_scientifique": "",
+      "wikipedia": "Cœur_de_bœuf_(tomate)",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coeur_de_boeuf_vraie.JPG/800px-Coeur_de_boeuf_vraie.JPG"
+    },
+    "Concombre jaune": {
+      "nom_scientifique": "",
+      "wikipedia": "Concombre",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cucumis_sativus_Blanco2.299-cropped.jpg"
+    },
+    "Courgette": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Janvier",
+        "Février",
+        "Mars",
+        "Avril",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Janvier",
+        "Avril"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "concombre"
+      ],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Courgette_Cucurbita_pepo_2.jpg"
+    },
+    "Fenouil": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Avril",
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Août",
+        "Juin",
+        "Juillet"
+      ],
+      "compagnons": [
+        "basilic"
+      ],
+      "mauvais_compagnons": [
+        "carotte",
+        "chou",
+        "fève",
+        "haricot",
+        "poivron",
+        "tomate"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Foeniculum_vulgare.JPG"
+    },
+    "Gombo": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Octobre",
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Décembre",
+        "Janvier",
+        "Février",
+        "Mars"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Okra_flower.JPG"
+    },
+    "Haricot 4 coins": {
+      "nom_scientifique": "Psophocarpus tetragonolobus",
+      "wikipedia": "Haricot_ailé",
+      "semis": [],
+      "en_terre": [
+        "Janvier",
+        "Février"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mai",
+        "Juin",
+        "Juillet",
+        "Août",
+        "Septembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Psophocarpus_tetragonolobus_Blanco2.293.png"
+    },
+    "Haricot coco": {
+      "nom_scientifique": "Phaseolus vulgaris L.",
+      "wikipedia": "",
+      "semis": [
+        "Mai"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Toute l'année"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaseolus_vulgaris_seed.jpg"
+    },
+    "Haricot kilometre": {
+      "nom_scientifique": "",
+      "wikipedia": "Dolique_asperge",
+      "semis": [
+        "Janvier"
+      ],
+      "en_terre": [
+        "Septembre",
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vigna_unguiculata_plants.jpg"
+    },
+    "Haricot lima": {
+      "nom_scientifique": "",
+      "wikipedia": "Haricot_de_Lima",
+      "semis": [],
+      "en_terre": [
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Phaseolus_lunatus_Blanco2.369.png"
+    },
+    "Haricot mungo": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Janvier",
+        "Février",
+        "Novembre",
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sa_green_gram.jpg"
+    },
+    "Haricot blancs": {
+      "nom_scientifique": "Phaseolus vulgaris L.",
+      "wikipedia": "",
+      "semis": [
+        "Mai"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Juillet"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/French_beans_J1.JPG"
+    },
+    "Haricot nains": {
+      "nom_scientifique": "Phaseolus vulgaris L.",
+      "wikipedia": "",
+      "semis": [
+        "Mai"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Juillet"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Haricots_grimpants_ph%C3%A9nom%C3%A8nes02.jpg"
+    },
+    "Haricot verts": {
+      "nom_scientifique": "",
+      "wikipedia": "Haricot_vert",
+      "semis": [
+        "Mai"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Juillet"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Haricots_verts01.jpg"
+    },
+    "Igname": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Septembre",
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Septembre",
+        "Octobre",
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vendeuse_d%27igname_04.jpg"
+    },
+    "Laitue batavia": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "en_terre": [
+        "Avril"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Juin",
+        "Juillet",
+        "Août",
+        "Septembre",
+        "Octobre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Batavia.JPG"
+    },
+    "Laitues": {
+      "nom_scientifique": "",
+      "wikipedia": "Laitue_scariole",
+      "semis": [
+        "Avril",
+        "Août",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Avril",
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mai",
+        "Juin"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lactuca_serriola.jpg"
+    },
+    "Luffa": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Janvier",
+        "Février",
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "bouture_rejet": [
+        "Novembre"
+      ],
+      "recolte": [
+        "Août",
+        "Avril",
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Luffa_aegyptica.jpg"
+    },
+    "Mâche": {
+      "nom_scientifique": "",
+      "wikipedia": "Valerianella_locusta",
+      "semis": [
+        "Juillet"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Illustration_Valerianella_locusta0.jpg"
+    },
+    "Maïs": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Septembre",
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "compagnons": [
+        "citrouille",
+        "courge",
+        "courgette",
+        "haricot",
+        "pois",
+        "tournesol"
+      ],
+      "mauvais_compagnons": [
+        "tomate"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+    },
+    "Manioc": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Janvier",
+        "Février",
+        "Novembre",
+        "Décembre"
+      ],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg"
+    },
+    "Mogette": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Novembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mogettes_de_Vend%C3%A9e.jpg"
+    },
+    "Navet": {
+      "nom_scientifique": "Brassica rapa",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Mai",
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Avril",
+        "Mai"
+      ],
+      "compagnons": [
+        "marigold"
+      ],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Turnip_2622027.jpg"
+    },
+    "Oignon jaune de jours courts": {
+      "nom_scientifique": "Allium cepa",
+      "wikipedia": "Oignon",
+      "semis": [
+        "Février"
+      ],
+      "en_terre": [
+        "Janvier"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Allium_cepa.jpg"
+    },
+    "Oignon vert": {
+      "nom_scientifique": "",
+      "wikipedia": "Cébette",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Avril",
+        "Septembre"
+      ],
+      "recolte": [
+        "Avril"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CSA-Red-Spring-Onions.jpg/1920px-CSA-Red-Spring-Onions.jpg"
+    },
+    "Pastèque": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Août",
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Septembre",
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Septembre",
+        "Octobre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg"
+    },
+    "Persil": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mars"
+      ],
+      "en_terre": [
+        "Mars"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "asperge",
+        "brocoli",
+        "tomate"
+      ],
+      "mauvais_compagnons": [
+        "laitue"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Petroselinum_crispum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-103.jpg"
+    },
+    "Piment": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Capsicum_annuum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-027.jpg"
+    },
+    "Poireau": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Septembre"
+      ],
+      "recolte": [],
+      "compagnons": [
+        "achillée",
+        "carotte",
+        "céleri",
+        "oignon",
+        "thym"
+      ],
+      "mauvais_compagnons": [
+        "brocoli",
+        "haricot",
+        "pois"
+      ],
+      "source": "base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Poireaux.JPG"
+    },
+    "Poireaux d'été": {
+      "nom_scientifique": "",
+      "wikipedia": "Poireau_d'été",
+      "semis": [
+        "Février",
+        "Mars"
+      ],
+      "en_terre": [
+        "Janvier",
+        "Mars"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ail6.jpg"
+    },
+    "Poivron": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "en_terre": [
+        "Septembre",
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "achillée",
+        "aubergine",
+        "basilic",
+        "carotte",
+        "oignon",
+        "thym",
+        "tomate"
+      ],
+      "mauvais_compagnons": [
+        "betterave",
+        "fenouil",
+        "moutarde",
+        "noyer"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Capsicum_annuum_fruits_IMGP0049.jpg"
+    },
+    "Pomme de terre": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Juillet"
+      ],
+      "compagnons": [
+        "achillée",
+        "brocoli",
+        "chou",
+        "fève",
+        "haricot",
+        "oignon",
+        "pois"
+      ],
+      "mauvais_compagnons": [
+        "aubergine",
+        "concombre",
+        "noyer",
+        "pommier",
+        "tomate",
+        "tournesol"
+      ],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/234_Solanum_tuberosum_L.jpg"
+    },
+    "Potiron": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Juillet"
+      ],
+      "en_terre": [
+        "Juin",
+        "Juillet"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bu%C4%8De.jpg"
+    },
+    "Radis 18 jours": {
+      "nom_scientifique": "Raphanus sativus",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Mars",
+        "Août"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Février"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Radijs_bloemen_Raphanus_sativus_subsp._sativus.jpg"
+    },
+    "Radis Daikon": {
+      "nom_scientifique": "Raphanus sativus var. longipinnatus",
+      "wikipedia": "Radis_blanc",
+      "semis": [],
+      "en_terre": [
+        "Avril"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mars"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Daikon.Japan.jpg"
+    },
+    "Roquette": {
+      "nom_scientifique": "",
+      "wikipedia": "Roquette_(plante)",
+      "semis": [],
+      "en_terre": [
+        "Avril",
+        "Mai",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Mars",
+        "Avril",
+        "Mai",
+        "Octobre",
+        "Décembre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Eruca_sativa_1_IP0206101.jpg"
+    },
+    "Saint Pierre": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [
+        "Mai",
+        "Juin"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "base",
+      "photo": "https://www.publicdomainpictures.net/pictures/50000/velka/plant-1372238721hPX.jpg"
+    },
+    "Scaroles": {
+      "nom_scientifique": "",
+      "wikipedia": "Chicorée_scarole",
+      "semis": [],
+      "en_terre": [
+        "Octobre",
+        "Novembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cichorium_endivia_field.jpg"
+    },
+    "Taro": {
+      "nom_scientifique": "",
+      "wikipedia": "Taro_(plante)",
+      "semis": [],
+      "en_terre": [],
+      "bouture_rejet": [
+        "Décembre"
+      ],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/TaroAKL.jpg"
+    },
+    "Tomate marmande": {
+      "nom_scientifique": "",
+      "wikipedia": "Tomate_Marmande",
+      "semis": [
+        "Août",
+        "Septembre"
+      ],
+      "en_terre": [
+        "Septembre",
+        "Octobre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Octobre"
+      ],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tomates_Marmande.jpg"
+    },
+    "Tomate": {
+      "nom_scientifique": "Solanum lycopersicum",
+      "wikipedia": "",
+      "semis": [
+        "Novembre"
+      ],
+      "en_terre": [
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [
+        "achillée",
+        "ail",
+        "asperge",
+        "basilic",
+        "capucine",
+        "carotte",
+        "concombre",
+        "haricot",
+        "laitue",
+        "oignon",
+        "persil",
+        "poireau",
+        "pois",
+        "poivron",
+        "sauge",
+        "thym"
+      ],
+      "mauvais_compagnons": [
+        "aneth",
+        "betterave",
+        "fenouil",
+        "maïs",
+        "noyer",
+        "pomme de terre"
+      ],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomatoes_plain_and_sliced.jpg"
+    },
+    "Tomate cerises": {
+      "nom_scientifique": "",
+      "wikipedia": "Tomate_cerise",
+      "semis": [
+        "Janvier"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/233_Solanum_dulcamara_L.jpg"
+    },
+    "Tomate noires C.": {
+      "nom_scientifique": "",
+      "wikipedia": "Tomate",
+      "semis": [
+        "Juin"
+      ],
+      "en_terre": [],
+      "bouture_rejet": [],
+      "recolte": [],
+      "compagnons": [],
+      "mauvais_compagnons": [],
+      "source": "image+base",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomatoes_plain_and_sliced.jpg"
+    },
+    "Tournesol": {
+      "nom_scientifique": "",
+      "wikipedia": "",
+      "semis": [],
+      "en_terre": [
+        "Août",
+        "Décembre"
+      ],
+      "bouture_rejet": [],
+      "recolte": [
+        "Septembre"
+      ],
+      "compagnons": [
+        "maïs",
+        "melon",
+        "pois"
+      ],
+      "mauvais_compagnons": [
+        "haricot grimpant",
+        "pomme de terre"
+      ],
+      "source": "image",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Helianthus_annuus_0001.JPG"
+    }
+  }
+}
