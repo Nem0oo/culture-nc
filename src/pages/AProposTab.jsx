@@ -11,7 +11,7 @@ export default function AProposTab() {
         <h2 className="text-sm font-semibold text-gray-700 mb-2">Sources</h2>
         <ul className="text-sm text-gray-600 space-y-2 list-disc pl-4">
           <li>
-            Calendrier cultural (semis/récolte) : Kévin Gallot / Fred Garcia — Malé'Ka
+            Calendrier cultural (semis/récolte) : Kévin Gallot / Fred Garcia — Maléva
             Pratiques Écologiques
           </li>
           <li>
@@ -35,15 +35,6 @@ export default function AProposTab() {
         <p className="text-sm text-gray-600">Version {APP_VERSION}</p>
         <p className="text-sm text-gray-600">Données mises à jour : {DATA_DATE}</p>
       </section>
-
-      <a
-        href="https://fruitsetlegumes.nc"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block text-sm text-secondary underline"
-      >
-        fruitsetlegumes.nc →
-      </a>
     </div>
   )
 }
