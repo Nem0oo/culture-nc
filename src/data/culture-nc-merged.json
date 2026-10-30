@@ -3,6 +3,7 @@
   "toute_annee": [
     "amarante",
     "chou kale",
+    "haricot coco",
     "laitue feuille de chêne blonde",
     "tomate miel du mexique"
   ],
@@ -649,9 +650,7 @@
         "Juillet"
       ],
       "bouture_rejet": [],
-      "recolte": [
-        "Toute l'année"
-      ],
+      "recolte": [],
       "compagnons": [],
       "mauvais_compagnons": [],
       "source": "image+base",
