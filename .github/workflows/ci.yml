@@ -67,6 +67,15 @@ jobs:
           build-args: SHA=${{ github.sha }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+      - name: Smoke test before push
+        run: |
+          docker run -d --name culture-nc -p 8080:80 ${{ secrets.DOCKERHUB_USERNAME }}/culture-nc:latest
+          for i in {1..10}; do
+            curl -sf http://localhost:8080/version.txt | grep -q ${{ github.sha }} && break
+            [ "$i" -eq 10 ] && exit 1
+            sleep 1
+          done
+          docker stop culture-nc
       - name: Push Docker image
         run: |
           docker push ${{ secrets.DOCKERHUB_USERNAME }}/culture-nc:latest

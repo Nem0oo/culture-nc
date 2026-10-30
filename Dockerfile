@@ -6,7 +6,8 @@ COPY package.json package-lock.json* ./
 RUN npm install
 
 COPY . .
-RUN npm run build
+# Un test en échec fait échouer le build de l'image, donc sa publication.
+RUN npm test && npm run build
 
 # --- Stage 2 : runtime (nginx léger) ---
 FROM nginx:1.27-alpine AS runtime
